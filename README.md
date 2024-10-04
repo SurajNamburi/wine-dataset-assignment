@@ -1,2 +1,2 @@
 # wine-dataset-assignment
-This repository contains the code and data for optimizing a neural network using the Wine Dataset from the UCI Machine Learning Repository.
+This repository contains the Wine Dataset data from the UCI Machine Learning Repository.
